@@ -5,11 +5,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vitepress dev --host",
+    "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vitepress preview"
   },
   "keywords": [],
   "type": "module",
