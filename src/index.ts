@@ -1,12 +1,14 @@
 import { onMounted, watch, nextTick } from 'vue';
 import { useRoute } from 'vitepress';
 import DefaultTheme from 'vitepress/theme';
+
 import mediumZoom from 'medium-zoom';
 import Home from './views/HomeView.vue';
 import Archives from './views/ArchivesView.vue';
 import Tags from './views/TagsView.vue';
 import Page from './views/PageView.vue';
 import ThemeLayout from './views/ThemeLayout.vue';
+
 import './styles/index.less';
 
 export default {
