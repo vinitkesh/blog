@@ -1,6 +1,5 @@
 node_modules
 .vitepress/dist
 .vitepress/cache
-/*.md
 !README.md
 !README_en-US.md
