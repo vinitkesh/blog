@@ -2,7 +2,7 @@ name: deploy-website
 
 on:
   push:
-    branches: [ "master" ]
+    branches: main
 
   workflow_dispatch:
 
@@ -27,4 +27,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           folder: .vitepress/dist
-          branch: gh-pages
+          branch: main
