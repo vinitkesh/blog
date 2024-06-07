@@ -8,7 +8,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   title: 'Touch Grass',
   titleTemplate: 'VitePress Theme Minimalism',
   description: 'My Blog',
-  base: '',
+  base: '/blog/',
   rewrites,
   cleanUrls: true,
   ignoreDeadLinks: true,
