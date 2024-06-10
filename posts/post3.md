@@ -1,14 +1,14 @@
 ---
 title: Post 3
-datetime: '2023/10/03 10:00:00'
+datetime: '2024/06/10 00:41:00'
 permalink: posts/d4bad3
 outline: deep
 tags:
-  - Post
+  - Personal
 ---
 
-# Post 3
+## Last 30 days of summer
 
-## Title
+The summer before intership has come to it's midway point. And I aparently haven't achieved too much.
 
-### Secondary Title
+

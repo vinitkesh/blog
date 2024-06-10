@@ -1,14 +1,10 @@
 ---
 title: Post 4
-datetime: '2023/10/04 10:00:00'
+datetime: '2024/06/11 10:00:00'
 permalink: posts/73a18e
 outline: deep
 tags:
-  - Post
+  - Personal
 ---
 
-# Post 4
-
-## Title
-
-### Secondary Title
+# What am I doing?
