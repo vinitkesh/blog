@@ -14,6 +14,7 @@ tags:
 ## 1. Journal details
 
 :::details Recorded days:
+
 1. May 16
 1. May 17
 1. May 20
