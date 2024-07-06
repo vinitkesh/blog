@@ -4,7 +4,7 @@ hero:
   image : "/grass.jpg"
   name: Vinit's Blog
   text: ""
-  tagline: A place where I place my thoughts and opinions
+  tagline: A place where I place my thoughts ,opinions and some tech docs.  
 
 features:
   - icon: 📚
