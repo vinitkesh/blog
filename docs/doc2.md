@@ -1,5 +1,8 @@
-# My linux Docs : 
+---
+title: Linux Docs
+---
 
+<h1 style="color:greenyellow" >My linux Docs</h1>
 
 :::details Installing using .deb files : 
 
